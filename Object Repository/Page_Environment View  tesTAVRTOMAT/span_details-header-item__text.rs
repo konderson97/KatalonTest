@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_details-header-item__text</name>
+   <tag></tag>
+   <elementGuidId>bd00318d-8947-401a-8480-8b3111cbad46</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>details-header-item__text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js no-touch cssanimations csstransitions ng-scope&quot;]/body[@class=&quot;pushable&quot;]/section[@class=&quot;content pusher&quot;]/div[@class=&quot;content__header ng-scope&quot;]/div[@class=&quot;content-header&quot;]/div[@class=&quot;content-header__left&quot;]/div[@class=&quot;details&quot;]/div[@class=&quot;details__header&quot;]/ul[@class=&quot;details-header nav&quot;]/li[@class=&quot;details-header__item details-header__item_under-modification&quot;]/span[@class=&quot;state state_loader&quot;]/span[@class=&quot;details-header-item__text&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
